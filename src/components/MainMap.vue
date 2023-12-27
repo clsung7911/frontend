@@ -36,7 +36,6 @@ export default {
         zoom: 12
       })
     })
-
     window.map = this.olMap
   }
 }
